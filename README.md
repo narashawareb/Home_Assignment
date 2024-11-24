@@ -2,8 +2,11 @@
 
 ## Project's details
 Title: Default Mode Network Analsysis-- fMRI & Histogram plot
+
 Name: Nara Alshawareb
+
 Date project completed: 23/11/2024
+
 Link of fMRI source: https://neurosynth.org/analyses/terms/default%20network/
 
 
@@ -17,9 +20,13 @@ Home_Assignment_VS_Code is the Jupyter notebook containing the code and output o
 
 ## Python packages used:
 Numpy
+
 Nilearn
+
 Nibabel
+
 Matplotlib.pyplot
+
 Glob
 
 Note: to be able to run the code on your laptop, make sure you save the two files in the same working directory as the Jupyter notebook :)
