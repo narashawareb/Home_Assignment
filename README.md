@@ -11,7 +11,7 @@ Link of fMRI source: https://neurosynth.org/analyses/terms/default%20network/
 
 
 ## Description
-The code uses two files from the website Neurosynth (contains fMRI visualizations for over 100 constructs syntehsized from thousands of meta-studies); one of which is just the anatomical map of a brain, and the second is the fMRI activation of the default mode network condensed from over 900 studies. Using the package nilearn, I am able to map the fMRI activation onto the braim and customize the output (e.g. the color of the map). Lastly, the code selects only the positive values from the fMRI  activation and plots it into a histogram showing the distribution of the voxel activation levels.
+The code uses two files from the website Neurosynth (contains fMRI visualizations for over 100 constructs synthesized from thousands of meta-studies); one of which is just the anatomical map of a brain, and the second is the fMRI activation of the default mode network condensed from over 900 studies. Using the package nilearn, I am able to map the fMRI activation onto the braim and customize the output (e.g. the color of the map). Lastly, the code selects only the positive values from the fMRI  activation and plots it into a histogram showing the distribution of the voxel activation levels.
 
 ## Table of contents
 anatomical.nii : the file containing the anatomical map of the brain (no fMRI activation)
